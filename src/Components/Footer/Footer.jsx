@@ -69,7 +69,7 @@ function Footer() {
 
                             <div className="col-lg-9 col-sm-12">
                                 <ul style={footerNavUl}>
-                                    <li style={footerNavLi}><NavLink className="nav-link active text-secondary" to="/movies">Movies</NavLink></li>
+                                    <li style={footerNavLi}><NavLink className="nav-link active text-secondary" to="/">Home</NavLink></li>
                                     <li style={footerNavLi}><NavLink className="nav-link active text-secondary" to="/games">Games</NavLink></li>
                                     <li style={footerNavLi}><NavLink className="nav-link active text-secondary" to="softwares">Sofwares</NavLink></li>
                                 </ul>
