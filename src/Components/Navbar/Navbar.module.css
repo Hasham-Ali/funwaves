@@ -1,0 +1,13 @@
+#sc{
+    position: absolute;
+    right: 0px;
+}
+
+.navContainer{
+    color: white;
+}
+
+.navBar{
+    background-color: orange !important;
+    font-weight: bold;
+}
