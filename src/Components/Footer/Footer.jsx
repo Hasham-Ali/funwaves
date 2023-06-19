@@ -76,7 +76,7 @@ function Footer() {
                             </div>
 
                             <div className="col-lg-3 col-sm-12">
-                                <p className="text-secondary" style={footerRights}>© 2023 FUNWAVE All rights reserved.</p>
+                                <p className="text-secondary" style={footerRights}>© FUNWAVE All rights reserved.</p>
                             </div>
 
                         </div>
